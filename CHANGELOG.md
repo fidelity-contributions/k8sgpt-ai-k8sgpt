@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.40](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.39...v0.3.40) (2024-07-18)
+
+
+### Bug Fixes
+
+* auth update throw out exception ([#1193](https://github.com/k8sgpt-ai/k8sgpt/issues/1193)) ([391a3cd](https://github.com/k8sgpt-ai/k8sgpt/commit/391a3cd5adcbd90f37922332b4fad5ba5d813e5f))
+
 ## [0.3.39](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.3.38...v0.3.39) (2024-07-18)
 
 
